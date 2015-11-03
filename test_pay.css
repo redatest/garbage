@@ -1,0 +1,40 @@
+.container {
+    padding: 0px 0px;
+}
+
+.navbar-header {
+    margin-left: 3%;
+}
+
+.navbar-brand{
+	line-height: 10px;
+}
+
+header#mainHeader{
+	margin-top: 22px;
+}
+
+div.logo-wrapper {
+    margin-left: 24%;
+    width: 105px;
+}
+
+div.logo-wrapper span{
+	font-size:8px;
+}
+
+.navbar-default .navbar-nav > li > a {
+	padding: 25px 12px 10px;
+	line-height: 28px;
+	min-width: 77px !important;
+}
+
+ul.horizontal.full.four.ruled.padded.center.margin-top-big li{
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+}
+
+ul.horizontal.full.four.ruled.padded.center.margin-top-big li h6 a.padd_a{
+	/*text-decoration: none;*/
+	font-weight: bold;
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+}
